@@ -43,12 +43,7 @@
 - Recursos Humanos
 
 ## ✦ Vamos nos conectar?
-
-<p>
-   <a href="https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/rebeca-lorena-sa/" target="_blank">
-    LinkedIn
-  </a>
-</p>
+[🔗[https://www.linkedin.com/in/rebeca-lorena-sa/]
 
 ---
 
