@@ -44,8 +44,8 @@
 
 ## ✦ Vamos nos conectar?
 
-<p>
-  <a href="www.linkedin.com/in/rebeca-lorena-sa">
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
     LinkedIn
   </a>
 </p>
